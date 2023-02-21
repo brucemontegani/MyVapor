@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "template-fluent-postgres-leaf",
+    name: "MyVapor",
     platforms: [
        .macOS(.v12)
     ],
